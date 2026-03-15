@@ -1,6 +1,6 @@
 [![CI](https://github.com/ronitmaheshwari05/continuous-integration/actions/workflows/main.yml/badge.svg)](https://github.com/ronitmaheshwari05/continuous-integration/actions)
 
-# Continuous Integration
+# Continuous Integration Practice
 
 ## Purpose
 
